@@ -1,3 +1,3 @@
 # CSharp11Features
 
-An overview of the new Features of C# 10
+An overview of the new Features of C# 11
